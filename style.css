@@ -1,0 +1,126 @@
+body{ 
+background-color:#ffe6ff;
+}
+
+p{
+	    font-size: 50px;
+}
+#titulli {
+color: #ffb3e6;
+height: auto;
+width: auto;
+text-align: center;
+font-size: 150px;
+}
+
+button {
+background-color: pink;
+height: auto;
+width: auto;
+text-align: center;
+display:block;
+margin: auto;
+  padding: 15px 32px;
+
+}
+
+.img {
+	height: 235px;
+	width: 450px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding:20px;
+	
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: lightgray;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: lightpink;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:  #ffd9b3;
+  color: #ffe6e6;
+}
+
+#about{
+	text-align:center;
+}
+
+.membertext{
+	display:flex;
+	flex-direction: row;
+	gap:20px;
+}
+
+.membertext img{
+	width: 50%;
+    height: 50%;
+}
+
+.membertext2{
+	display:flex;
+	flex-direction:row;
+	gap:20px;
+}
+.all{display: flex;
+    flex-direction: column;
+    gap: 20px;}
+	
+	.membertext3{
+    display:flex;
+	flex-direction:row;
+	gap:20px;
+	}
+	.membertext3 img{
+		width:50%;
+	}
+	.membertext4 {
+		display:flex;
+	flex-direction:row;
+	gap:20px;
+	}
+	.membertext4 img{
+		width:50%;
+	}
+	
+.img2 {
+    height: 235px;
+	width: 450px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding:20px;
+	
+	
+}
+	
+.img3 {
+    height: 235px;
+	width: 450px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding:20px;
+	
+	
+}
